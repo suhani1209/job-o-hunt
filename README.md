@@ -17,7 +17,7 @@ Directory structure of the web app is as follows:
 - Install dependencies in backend directory: `npm install`
 - Start express server: `npm start`
 - Backend server will start on port 4444.
-- Now go inside frontend directory: `cd ..\frontend`
+- Now go inside frontend directory: `cd frontend`
 - Install dependencies in frontend directory: `npm install`
 - Start web app's frontend server: `npm start`
 - Frontend server will start on port 3000.
