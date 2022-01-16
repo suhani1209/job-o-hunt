@@ -6,7 +6,6 @@ Directory structure of the web app is as follows:
 
 ```
 - backend/
-    - public/
 - frontend/
 - README.md
 ```
